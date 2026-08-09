@@ -191,14 +191,6 @@ To start and grow my career as a Data Analyst / Business Intelligence profession
 
 ---
 
-📈 GitHub Stats
-
-"Rishu's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=rishu-data&show_icons=true&theme=dark)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=rishu-data&layout=compact&theme=dark)
-
----
-
 🤝 Let's Connect
 
 📍 Delhi, India
