@@ -140,7 +140,9 @@ The application dynamically generated different KPIs, trends, customer insights,
 
 Interactive HR Analytics dashboard focused on employee attrition, workforce demographics, job roles, salary trends, and key HR performance indicators.
 
-###Tools & Skills: Power BI • DAX • Power Query • Data Modeling • Data Visualization
+### Technology
+
+'Power BI' 'DAX' 'Power Query' 'Data Modeling' 'Data Visualization'
 
 ---
 
@@ -148,7 +150,9 @@ Interactive HR Analytics dashboard focused on employee attrition, workforce demo
 
 Interactive recruitment analytics dashboard designed to analyze candidate trends, recruitment performance, placement outcomes, and key recruitment KPIs.
 
-###Tools & Skills: Power BI • Data Cleaning • Data Modeling • KPI Reporting • Data Visualization
+### Technology
+
+Power BI • Data Cleaning • Data Modeling • KPI Reporting • Data Visualization
 
 ---
 
@@ -156,7 +160,9 @@ Interactive recruitment analytics dashboard designed to analyze candidate trends
 
 Interactive sales dashboard developed to analyze mobile sales performance, product trends, revenue, customer behavior, and key business KPIs.
 
-###Tools & Skills: Power BI • DAX • Data Transformation • Data Visualization • Business Analysis
+### Technology
+
+Power BI • DAX • Data Transformation • Data Visualization • Business Analysis
 
 ---
 
@@ -164,7 +170,9 @@ Interactive sales dashboard developed to analyze mobile sales performance, produ
 
 SQL-based data analysis project focused on extracting meaningful business insights using analytical queries and database techniques.
 
-###Tools & Skills: SQL • PostgreSQL • Joins • CTEs • Subqueries • Window Functions
+### Technology
+
+SQL • PostgreSQL • Joins • CTEs • Subqueries • Window Functions
 
 ---
 
