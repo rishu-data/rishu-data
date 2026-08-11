@@ -140,9 +140,9 @@ The application dynamically generated different KPIs, trends, customer insights,
 
 Interactive HR Analytics dashboard focused on employee attrition, workforce demographics, job roles, salary trends, and key HR performance indicators.
 
-### Technology
+### Technology 
 
-'Power BI' 'DAX' 'Power Query' 'Data Modeling' 'Data Visualization'
+Power BI • DAX • Power Query • Data Modeling • Data Visualization
 
 ---
 
