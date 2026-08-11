@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Rishu Singh
 
-Data Analyst | Business Intelligence | SQL | Power BI
+Data Analyst | Business Intelligence | SQL | Power BI | Data Analytics
 
 I'm a B.Tech CSE (Data Science) student at Guru Gobind Singh Indraprastha University, focused on building a career in Data Analytics and Business Intelligence.
 
@@ -22,6 +22,8 @@ I have completed professional learning programs and certifications in Power BI, 
 - Perform data cleaning, transformation, and data modeling
 - Develop business-focused visualizations and reports
 - Translate analytical findings into clear and actionable insights
+- Build customer and business analytics solutions
+- Create data-driven dashboards for business decision-making
 
 ---
 
@@ -73,6 +75,7 @@ I have completed professional learning programs and certifications in Power BI, 
 - Python Basics
 - Pandas
 - Data Analysis
+- Data Visualization
 
 📊 Data Visualization
 
@@ -88,16 +91,56 @@ I have completed professional learning programs and certifications in Power BI, 
 - Microsoft Excel
 - PostgreSQL
 - Python
+- Reflex
 
 ---
 
 📊 Featured Projects
 
+🔥 InsightSheet — AI-Powered Business Analytics Platform
+
+A web-based business analytics application that transforms CSV and Excel data into interactive dashboards, customer intelligence, automated insights, forecasting, and actionable business recommendations.
+
+Designed for non-technical users to upload business data and automatically generate decision-ready analytics.
+
+### Key Features
+
+- CSV & Excel data upload
+- Automated data cleaning and column detection
+- Data quality validation
+- Executive KPI dashboard
+- Revenue and sales trend analysis
+- Month-over-Month analysis
+- Month-to-Date comparison
+- Top customer and product analysis
+- Customer retention and inactivity detection
+- Customer concentration analysis
+- RFM customer segmentation
+- Automated business insights
+- Business recommendations
+- Revenue forecasting
+- PDF report generation
+- CSV and Excel exports
+
+### Multi-Dataset Validation
+
+Tested with multiple datasets including:
+
+- Sample Business Sales Data
+- Mobile Sales Data
+- Superstore Dataset
+
+The application dynamically generated different KPIs, trends, customer insights, product analysis, risk alerts, and recommendations based on the uploaded dataset.
+
+### Technology
+
+`Python` `Pandas` `Reflex` `Git` `GitHub`
+
 🏢 HR Attrition Analysis — Power BI
 
 Interactive HR Analytics dashboard focused on employee attrition, workforce demographics, job roles, salary trends, and key HR performance indicators.
 
-Tools & Skills: Power BI • DAX • Power Query • Data Modeling • Data Visualization
+###Tools & Skills: Power BI • DAX • Power Query • Data Modeling • Data Visualization
 
 ---
 
@@ -105,7 +148,7 @@ Tools & Skills: Power BI • DAX • Power Query • Data Modeling • Data Visu
 
 Interactive recruitment analytics dashboard designed to analyze candidate trends, recruitment performance, placement outcomes, and key recruitment KPIs.
 
-Tools & Skills: Power BI • Data Cleaning • Data Modeling • KPI Reporting • Data Visualization
+###Tools & Skills: Power BI • Data Cleaning • Data Modeling • KPI Reporting • Data Visualization
 
 ---
 
@@ -113,7 +156,7 @@ Tools & Skills: Power BI • Data Cleaning • Data Modeling • KPI Reporting �
 
 Interactive sales dashboard developed to analyze mobile sales performance, product trends, revenue, customer behavior, and key business KPIs.
 
-Tools & Skills: Power BI • DAX • Data Transformation • Data Visualization • Business Analysis
+###Tools & Skills: Power BI • DAX • Data Transformation • Data Visualization • Business Analysis
 
 ---
 
@@ -121,7 +164,7 @@ Tools & Skills: Power BI • DAX • Data Transformation • Data Visualization 
 
 SQL-based data analysis project focused on extracting meaningful business insights using analytical queries and database techniques.
 
-Tools & Skills: SQL • PostgreSQL • Joins • CTEs • Subqueries • Window Functions
+###Tools & Skills: SQL • PostgreSQL • Joins • CTEs • Subqueries • Window Functions
 
 ---
 
@@ -182,6 +225,7 @@ Virtual Internship
 - Business Intelligence
 - Data Visualization & Storytelling
 - Building real-world Data Analytics projects
+- Developing practical business analytics application
 
 ---
 
