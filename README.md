@@ -119,6 +119,8 @@ Designed for non-technical users to upload business data and automatically gener
 - Automated business insights
 - Business recommendations
 - Revenue forecasting
+- PDF report generation
+- CSV and Excel exports
 
 ### Multi-Dataset Validation
 
