@@ -12,6 +12,13 @@ Through my hands-on projects and internship experience, I've worked on HR Analyt
 
 I have completed professional learning programs and certifications in Power BI, SQL, Advanced SQL, Google Analytics, Data Science & Machine Learning, Microsoft Fabric, and Data Concepts, along with internship experience at Bluestock Fintech and a Deloitte Virtual Internship.
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![Python](https://img.shields.io/badge/Python-Basics-blue)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-purple)
+
 ---
 
 🔍 What I Do
