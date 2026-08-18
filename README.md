@@ -110,7 +110,7 @@ A web-based business analytics application that transforms CSV and Excel data in
 
 Designed for non-technical users to upload business data and automatically generate decision-ready analytics.
 
-🔗 **[View Live Demo](https://insightsheet-analytics-dashboard-neon-ring.reflex.run/)**  
+🔗 **[View Live Demo](https://build.reflex.dev/gen/c0b5aaf2-e478-4b15-bc41-7d9d72f8ddbc/)**  
 💻 **[View GitHub Repository](https://github.com/rishu-data/InsightSheet-Analytics-Dashboard.git)**
 
 ### Key Features
